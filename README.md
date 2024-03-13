@@ -1,24 +1,35 @@
-# 12_http_sample
+# Vue.js
 
-## Project setup
-```
-npm install
-```
+This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed to Vercel with zero configuration.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Deploy Your Own
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Deploy your own Vue.js project with Vercel.
 
-### Lints and fixes files
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vue&template=vue)
+
+_Live Example: https://vue-template.vercel.app_
+
+## Running Locally
+
 ```
-npm run lint
+yarn install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Compile and hot-reload for development
+
+```
+yarn serve
+```
+
+#### Compile and minify for production
+
+```
+yarn build
+```
+
+#### Lint and fix files
+
+```
+yarn lint
+```
